@@ -1,0 +1,347 @@
+[
+  {
+    "id": "hookingpoint-facts-lineup-current-production",
+    "category": "제작",
+    "source": "대표확인",
+    "title": "현재 준비 중인 라인업",
+    "section": "회사정보",
+    "url": "internal://sources/hookingpoint-facts.md#lineup-current",
+    "text": "후킹포인트는 현재 예술영화 1편, 저예산 상업영화 1편, 드라마 2편, 숏폼 드라마 1편을 준비(개발/제작) 중이다. 개별 프로젝트의 제목·시놉시스·주요 스태프 등 상세 정보는 비공개다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-contact-production",
+    "category": "제작",
+    "source": "후킹포인트",
+    "title": "제작 협업 문의",
+    "section": "연락처",
+    "url": "https://hookingpoint.example/contact",
+    "text": "편집 의뢰, IP 자료 요청, 협업 제안은 모두 이메일(hooking.point@gmail.com)로 문의할 수 있다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+
+  {
+    "id": "mcst-webtoon-standard-contracts-010",
+    "category": "기획",
+    "source": "문화체육관광부",
+    "title": "웹툰(만화) 표준계약서",
+    "section": "표준계약서",
+    "url": "https://www.mcst.go.kr/site/s_open/generalData/dataView.jsp?pMenuCD=0405050000&pSeq=15",
+    "text": "만화(웹툰) 분야 표준계약서 6종(출판/전자책/웹툰연재/매니지먼트위임/공동저작/기획만화)과, 2024년 신규 제정된 2차적저작물작성권(영상화 등) 이용허락·양도 계약서 2종을 제공한다. 웹툰 원작의 영상화 판권 계약 시 참고할 수 있는 업계 표준 양식이다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "mcst-webnovel-standard-contracts-011",
+    "category": "기획",
+    "source": "문화체육관광부",
+    "title": "웹소설 표준계약서",
+    "section": "표준계약서",
+    "url": "https://www.mcst.go.kr/site/s_open/generalData/dataView.jsp?pMenuCD=0405050000&pSeq=52",
+    "text": "2025년 3월 제정된 웹소설 분야 표준계약서 3종(출판권설정/전자출판배타적발행권설정/연재계약서)을 제공한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "mcst-film-investment-standard-contract-012",
+    "category": "기획",
+    "source": "문화체육관광부",
+    "title": "영화 투자 표준계약서",
+    "section": "표준계약서",
+    "url": "https://www.mcst.go.kr/site/s_open/generalData/dataView.jsp?pMenuCD=0405050000&pSeq=7",
+    "text": "영화 투자 계약과 관련된 표준계약서로 2014년 발표되었다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "kocca-webtoon-industry-survey-2024-013",
+    "category": "기획",
+    "source": "한국콘텐츠진흥원",
+    "title": "2024 웹툰산업 실태조사 요약 수치",
+    "section": "산업통계",
+    "url": "https://www.startupn.kr/news/articleView.html?idxno=50103",
+    "text": "2025년 1월 발간된 콘텐츠진흥원의 2024 웹툰산업 실태조사에 따르면, 2023년 웹툰산업 매출은 2조1,890억원으로 전년 대비 19.7% 증가했다. 수출 비중은 일본 40.3%, 북미 19.7% 순이며, 작가 수입 중위값은 3,800만원으로 조사됐다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-ip-development-policy-014",
+    "category": "기획",
+    "source": "후킹포인트",
+    "title": "IP 프로젝트 열람 정책",
+    "section": "정책",
+    "url": "https://hookingpoint.example/ip-development",
+    "text": "현재 개발 중인 오리지널 IP 프로젝트의 시놉시스·기획의도·주요 이미지 등 상세정보는 관리자로부터 열람 권한을 부여받은 회원만 확인할 수 있다. 열람을 원하면 hooking.point@gmail.com 으로 문의해야 한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-facts-lineup-current-planning",
+    "category": "기획",
+    "source": "대표확인",
+    "title": "현재 준비 중인 라인업",
+    "section": "회사정보",
+    "url": "internal://sources/hookingpoint-facts.md#lineup-current",
+    "text": "후킹포인트는 현재 예술영화 1편, 저예산 상업영화 1편, 드라마 2편, 숏폼 드라마 1편을 준비 중이다. 개별 프로젝트의 제목·시놉시스는 비공개다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-contact-planning",
+    "category": "기획",
+    "source": "후킹포인트",
+    "title": "IP 열람 문의",
+    "section": "연락처",
+    "url": "https://hookingpoint.example/contact",
+    "text": "IP 자료 열람, 협업 제안은 이메일(hooking.point@gmail.com)로 문의할 수 있다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+
+  {
+    "id": "mcst-film-labor-standard-contract-015",
+    "category": "후반문의",
+    "source": "문화체육관광부",
+    "title": "영화 근로표준계약서",
+    "section": "표준계약서",
+    "url": "https://www.mcst.go.kr/site/s_data/generalData/dataView.jsp?pMenuCD=0405050000&pSeq=38",
+    "text": "편집을 포함한 영화 스태프 전 직군을 대상으로 한 근로표준계약서. 주 40시간 근로에 연장 최대 52시간, 4대보험 가입, 임금명세서 교부 의무화 등을 규정한다. 2011년 최초 제정 이후 2017·2019·2024년 개정됐다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "kofic-staff-standard-contract-notice-016",
+    "category": "후반문의",
+    "source": "KOFIC",
+    "title": "영화스태프 표준근로계약서 발표 공지",
+    "section": "공지",
+    "url": "https://www.kofic.or.kr/kofic/business/board/selectBoardDetail.do?boardNumber=4&boardSeqNumber=35855",
+    "text": "제작·연출·촬영·조명·그립·녹음·미술·소품·의상·분장·편집 등 전 스태프 직군을 계약 대상으로 명시한 표준근로계약서 발표 공지(2011년).",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "mcst-broadcast-staff-standard-contracts-017",
+    "category": "후반문의",
+    "source": "문화체육관광부",
+    "title": "방송영상프로그램 제작스태프 표준계약서",
+    "section": "표준계약서",
+    "url": "https://www.mcst.go.kr/kor/s_data/generalData/dataView.jsp?pSeq=5&pMenuCD=0405050000",
+    "text": "드라마 등 방송프로그램 제작스태프를 위한 근로/하도급/위탁 계약서 3종. 직군을 특정하지 않고 지휘감독 여부로 계약 유형을 구분한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-facts-vfx-partnership-018",
+    "category": "후반문의",
+    "source": "대표확인",
+    "title": "VFX 협업 관계",
+    "section": "협업사",
+    "url": "internal://sources/hookingpoint-facts.md#vfx-partnership",
+    "text": "사외이사 동은철(VFX 슈퍼바이저 출신, 20년 이상 경력)의 소속사 원컨텐츠와 후킹포인트는 협업사 관계에 있다. VFX가 필요한 프로젝트는 이 네트워크를 통해 실무 협업이 가능하다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-facts-ai-pipeline-019",
+    "category": "후반문의",
+    "source": "대표확인",
+    "title": "AI 작업 의뢰 파이프라인",
+    "section": "서비스",
+    "url": "internal://sources/hookingpoint-facts.md#ai-pipeline",
+    "text": "AI 작업을 의뢰할 경우 기획 → 스토리보드 → 3D 작업(현장 촬영 비용 절감) → 작업물 익스포트 순으로 공정이 진행된다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-contact-post",
+    "category": "후반문의",
+    "source": "후킹포인트",
+    "title": "AI 작업·VFX 협업 문의",
+    "section": "연락처",
+    "url": "https://hookingpoint.example/contact",
+    "text": "AI 작업 의뢰, VFX 협업 문의는 이메일(hooking.point@gmail.com)로 할 수 있다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+
+  {
+    "id": "hookingpoint-editing-merry-berry-love",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "메리 베리 러브",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#merry-berry-love",
+    "text": "드라마 '메리 베리 러브'(2026, 로맨스). 감독 김수정·노영섭, 작가 이재윤, 제작 CJ ENM·닛폰 테레비. 미지의 일본 섬을 배경으로 한국인 공간 기획자와 일본인 여성 농부가 서로에게 스며드는 한일 합작 청춘 로맨스. 2026년 10월 공개 예정(디즈니+ · 닛폰 테레비). 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-last-woman-on-earth",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "지구 최후의 여자",
+    "section": "편집 로그",
+    "url": "https://hookingpoint.example/works/last-woman-on-earth/editing",
+    "text": "영화 '지구 최후의 여자'(2026, 드라마·코미디). 감독·작가 염문경·이종민, 제작 호랑이연구소, 씨네21에서 정보 확인 가능. 포스트 프로덕션 단계에서 합류했으며, 감독들이 만든 기존 편집본을 인물 '한아' 중심의 다른 해석으로 재설계했다. (1) 한아의 감각을 관객이 논리가 아니라 몸으로 느끼게 하는 것 (2) 관계를 사랑이라는 단어로 섣불리 규정하지 않는 것, 두 축에 집중해 씬을 재배치했다. 불가사리·식칼 든 요리사·포박된 한아·과거 트라우마라는 네 겹의 이미지를 설명적으로 나열하는 대신 하나의 감각적 리듬 안에 겹쳐 배치했다. 무겁고 직설적인 감정 장면은 덜어내고 유머·일상적 순간과 교차 편집해 완급을 조절하는 방식을 영화 전반에 반복 적용했다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-between-the-two-of-us",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "우리 둘 사이에",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#between-the-two-of-us",
+    "text": "영화 '우리 둘 사이에'(2025.07.30 개봉, 소셜 성장 드라마). 감독·작가 성지혜, 제작 영화사 진, 씨네21에서 정보 확인 가능. 장애를 갖게 된 '은진'이 남편 '호선'과 신혼을 보내다 예기치 않은 임신을 마주하는 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-dirty-money",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "더러운 돈에 손대지 마라",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#dirty-money",
+    "text": "영화 '더러운 돈에 손대지 마라'(2024.10.17 개봉, 범죄·느와르). 감독·작가 김민수, 제작 리양필름, 티빙에서 시청 가능. 범죄 조직의 검은돈을 훔치려는 형사들의 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-boys-be-brave",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "고백을 못하고",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#boys-be-brave",
+    "text": "드라마 '고백을 못하고'(2024.04.25~05.16 방영, BL 로맨틱 코미디). 감독 임현희, 작가 이신원, 제작 페이지원필름 외, 티빙에서 시청 가능. 웹툰 작가 석영의 동명 웹툰(미스터블루) 원작. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-joseon-attorney",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "조선변호사",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#joseon-attorney",
+    "text": "드라마 '조선변호사'(2023.03.31~05.20 방영, 사극 법정극). 감독 김승호·이한준, 작가 최진영, 제작 원컨텐츠, 웨이브에서 시청 가능. 부모의 원수에게 법으로 되갚아주는 조선시대 변호사의 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-ingan-siljyeok",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "인간실격",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#ingan-siljyeok",
+    "text": "드라마 '인간실격'(2021.09.04~10.24 방영, 로맨스 멜로). 감독 허진호·박홍수, 작가 김지혜, 제작 씨제스엔터테인먼트 외, 티빙에서 시청 가능. 삶의 이유를 잃은 두 사람이 서로 얽히는 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-night-of-the-undead",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "죽지 않는 인간들의 밤",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#night-of-the-undead",
+    "text": "영화 '죽지 않는 인간들의 밤'(2020.09.29 개봉, 코미디·스릴러). 감독·작가 신정원, 제작 TCO(주)더콘텐츠온 외, 씨네21에서 정보 확인 가능. 남편이 외계인임을 알게 된 신혼 아내의 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-the-cursed",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "방법",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#the-cursed",
+    "text": "드라마 '방법'(2020.02.10~03.17 방영, 미스터리 스릴러). 감독 김용완, 작가 연상호, 제작 레진 스튜디오, 티빙에서 시청 가능. 대기업의 비밀을 파헤치는 기자와 신기를 가진 소녀의 이야기. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-editing-a-long-way-around",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "에움길",
+    "section": "작품정보",
+    "url": "https://hookingpoint.example/filmography#a-long-way-around",
+    "text": "다큐멘터리 영화 '에움길'(2019.06.20 개봉). 감독 이승현, 씨네21에서 정보 확인 가능. 일본군 성노예제 피해자 이옥선 할머니의 내레이션으로 전하는 삶의 기록. 제52회 월드페스트-휴스턴 국제영화제 레미상 등 5개 영화제에서 수상했다. 편집 포인트는 아직 공개되지 않았다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-facts-editing-extra-services-020",
+    "category": "편집",
+    "source": "대표확인",
+    "title": "편집 외 부가 서비스",
+    "section": "서비스",
+    "url": "internal://sources/hookingpoint-facts.md#editing-extra-services",
+    "text": "후킹포인트는 편집 외에도 시나리오 피드백, 요청 시 스토리보드 작업에 대한 주기적 참여, 종합편집(종편) 참여 서비스를 제공한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-contact-editing",
+    "category": "편집",
+    "source": "후킹포인트",
+    "title": "편집 의뢰하기",
+    "section": "연락처",
+    "url": "https://hookingpoint.example/contact",
+    "text": "편집 의뢰는 이메일(hooking.point@gmail.com)로 할 수 있다. 실제 편집 과정은 필모그래피(EDITING) 페이지에서 확인할 수 있다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+
+  {
+    "id": "hookingpoint-about-placeholder-022",
+    "category": "회사정보",
+    "source": "후킹포인트",
+    "title": "회사 소개",
+    "section": "소개",
+    "url": "https://hookingpoint.example/about",
+    "text": "후킹포인트의 공식 회사 소개 문단은 아직 게시되지 않았다. 현재는 연락처와 필모그래피(참여 작품 목록)를 통해 회사의 활동을 확인할 수 있다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-filmography-summary-023",
+    "category": "회사정보",
+    "source": "후킹포인트",
+    "title": "필모그래피 요약",
+    "section": "소개",
+    "url": "https://hookingpoint.example/filmography",
+    "text": "후킹포인트는 2019년부터 2026년까지 총 10편의 영화·드라마 편집에 참여했다. 장르는 로맨스, 코미디, 범죄·느와르, BL 로맨틱코미디, 사극 법정극, 멜로, 스릴러, 다큐멘터리 등으로 다양하다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-ip-development-policy-024",
+    "category": "회사정보",
+    "source": "후킹포인트",
+    "title": "IP 프로젝트 열람 정책",
+    "section": "정책",
+    "url": "https://hookingpoint.example/ip-development",
+    "text": "현재 개발 중인 오리지널 IP 프로젝트의 상세정보는 관리자로부터 열람 권한을 부여받은 회원만 확인할 수 있다. 열람을 원하면 hooking.point@gmail.com 으로 문의해야 한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  },
+  {
+    "id": "hookingpoint-contact-company",
+    "category": "회사정보",
+    "source": "후킹포인트",
+    "title": "연락처",
+    "section": "연락처",
+    "url": "https://hookingpoint.example/contact",
+    "text": "편집 의뢰, IP 자료 요청, 협업 제안 모두 이메일(hooking.point@gmail.com)로 환영한다.",
+    "deadline": null,
+    "fetched_at": "2026-08-31"
+  }
+]
